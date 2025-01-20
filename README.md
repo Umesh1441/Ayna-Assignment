@@ -1,5 +1,12 @@
 # Full-Stack Assignment: Real-Time Chat Application
 
+## Live Link
+You can access the live version of the project here:
+
+| **Environment**  | **Live Link**                            |
+|-------------------|------------------------------------------|
+| Production        | https://ayna-assignment-01.vercel.app/   |
+
 ## Overview
 
 This assignment involves building a real-time chat web application with the following key features: 
@@ -37,9 +44,6 @@ This assignment involves building a real-time chat web application with the foll
 - Fully responsive layout for desktop, tablet, and mobile devices.
 - Adaptive UI to ensure smooth functionality across different screen sizes.
 
-### 7. **Optional Features**
-- Additional features can be added to enhance the user experience (e.g., message timestamps, typing indicators, etc.).
-
 ---
 
 ## Getting Started
@@ -48,12 +52,5 @@ This assignment involves building a real-time chat web application with the foll
 - Node.js (v14 or higher)
 - npm or yarn
 - Strapi CMS
-- Any preferred frontend framework/library (React, Vue, Angular, etc.)
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+- React
 
